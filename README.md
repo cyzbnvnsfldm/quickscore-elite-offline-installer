@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Music+Notation-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 QuickScore Elite Free Installer** — QuickScore Elite is a Windows music notation and MIDI sequencing application that combines a traditional music notation editor with a multitrack MIDI sequencer. Works without internet access, no account required. Full offline installation.
+**💻 QuickScore Elite Free Installer** — QuickScore Elite is a professional music notation and MIDI sequencer for Windows that combines a notation editor with MIDI recording and playback. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install QuickScore Elite](https://img.shields.io/badge/⬇_Install_QuickScore%20Elite-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install QuickScore Elite](https://img.shields.io/badge/⬇_Install_QuickScore+Elite-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About QuickScore Elite
 
-QuickScore Elite is a Windows music notation and MIDI sequencing application that combines a traditional music notation editor with a multitrack MIDI sequencer. It targets musicians wanting both written notation and MIDI production in a single application.
+QuickScore Elite is a professional music notation and MIDI sequencer for Windows that combines a notation editor with MIDI recording and playback. Write sheet music for full orchestral scores, input notes from MIDI keyboard, and play back scores using MIDI or sampled sounds. QuickScore Elite targets composers and musicians who need both notation and MIDI sequencing in one Windows application.
 
 ---
 
 ## ❌ Problem: QuickScore Elite is hard to access
 
-- **Windows Only** — No macOS or Linux version available
-- **Paid License** — Requires purchase
-- **Dated Interface** — Visual design reflects older Windows application conventions
-- **Competition** — MuseScore handles notation free; DAWs handle MIDI production; overlap between both is rare need
+- **Windows Only** — No cross-platform support
+- **Commercial License** — Professional pricing for notation software
+- **Competition** — Sibelius and Finale dominate professional music notation
+- **Interface Age** — Visual design reflects the software's vintage
 
 ---
 
@@ -81,7 +81,7 @@ QuickScore Elite is a Windows music notation and MIDI sequencing application tha
 
 <div align="center">
 
-[![⬇ Install QuickScore Elite](https://img.shields.io/badge/⬇_Install_QuickScore%20Elite-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install QuickScore Elite](https://img.shields.io/badge/⬇_Install_QuickScore+Elite-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ QuickScore Elite is a Windows music notation and MIDI sequencing application tha
 
 ---
 
-**QuickScore Elite Free Installer** — QuickScore Elite is a Windows music notation and MIDI sequencing application that combines a traditional music notation editor with a multitrack MIDI sequencer. Install without internet connection today!
+**QuickScore Elite Free Installer** — QuickScore Elite is a professional music notation and MIDI sequencer for Windows that combines a notation editor with MIDI recording and playback. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install QuickScore Elite](https://img.shields.io/badge/⬇_Install_QuickScore%20Elite-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install QuickScore Elite](https://img.shields.io/badge/⬇_Install_QuickScore+Elite-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
